@@ -11,7 +11,7 @@ namespace PrintingSquare
     {
         static void Main(string[] args)
         {
-            var strLine = "Hello,World!!! Printing Square!!!";
+            var strLine = "Hello World!!! Printing Square!!! Press Any Key To Exit!!!";
             Console.Clear();
             Console.CursorVisible = false;
             for (int i = 0; i < strLine.Length; i++)
